@@ -5,7 +5,7 @@ Uma aplicação simulando um de um PetShop onde se realiza venda de produtos, fi
 ## Componentes
 
 ### Laravel 5.6
--Site do Laravel : **[Laravel](https://laravel.com/)**
+- Site do Laravel : **[Laravel](https://laravel.com/)**
 
 ### AdminLTE
 - GitHub : **[AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE)**
@@ -97,7 +97,7 @@ php artisan migrate
 ```
 Sedeers
 ```
-php artisan db:seede
+php artisan db:seed
 ```
 
 Agora, vamos iniciar a aplicação 
