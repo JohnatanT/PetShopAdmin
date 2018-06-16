@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.navbar-default{
+    background-color: #525ce7;
+    border: none;
+}
+
+.navbar{
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.navbar-default .navbar-nav li a{
+    color: #fff;
+}
+
+.navbar-nav>li>.dropdown-menu{
+    background-color: #525ce7;
+}
+.dropdown-menu>li>a{
+    text-align: center;
+}
+
+.dropdown-menu>li>a:hover{
+    background-color: transparent;
+}
+
+.home-sobre{
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.amostra{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.footer{
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.sobre h2{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.sobre .bloco{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+.sobre .bloco img{
+    width: 230px;
+    margin: 0 auto;
+}
+
+.produto{
+    margin-bottom: 30px;
+    margin-top: 40px;
+}

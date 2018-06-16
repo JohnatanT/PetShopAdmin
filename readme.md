@@ -100,6 +100,13 @@ Sedeers
 php artisan db:seed
 ```
 
+## Passo 4
+
+Vamos criar um link simbolico para a pasta de imagens
+```
+php artisan storage:link
+```
+
 Agora, vamos iniciar a aplicação 
 
 Use o próprio servidor PHP do Laravel:
