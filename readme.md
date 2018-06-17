@@ -83,6 +83,8 @@ composer update
 ```
 
 ## Passo 2
+Renomeie o arquivo `env` para `.env`
+
 Configure corretamente sua conexão no arquvivo ```.env```
 
 Não esqueça de ter criado um Banco de Dados antes para subir as Migrations.
